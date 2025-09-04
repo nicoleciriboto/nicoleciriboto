@@ -9,20 +9,20 @@
 
 ## 💡 About Me
 
-- 🎓 **Currently learning:** Software Engineering @ Uncommon.org
-- 🖌️ **Aspiring Front-End Developer** with a knack for clean, minimalist interfaces in Figma, ReactJS, HTML, CSS
+- 🎓 **Currently learning:** Software Development @ Uncommon.org
+- 🖌️ **Aspiring Front-End Developer** with a knack for clean, minimalist interfaces in Figma, ReactJS, HTML, CSS, JavaScript
 - 📊 **Background in Data Analytics** — skilled in data visualization & digital strategy
 - 🧠 **Always eager to learn** and explore new tech
-- 🎵 Music lover, thriller & suspense aficionado, street-style fashion enthusiast
+- 🎵 Music lover, thriller & suspense aficionado, multi-lingual.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Languages & Frameworks:**  
-  `HTML` • `CSS` • `JavaScript` • `ReactJS` (learning) • `Node.js` (learning) • `Python` (basics + real-world projects)
+  `HTML` • `CSS` • `JavaScript` • `Reactjs` (learning) • `Next.js` (learning) • `Python` (basics + real-world projects) • `TailwindCSS` (learning)
 - **Design & Visualization:**  
-  `Figma` (UI/UX Design, Design Thinking) • `Bootstrap` (Responsive Web Design) • Data Visualization
+  `Figma` (UI/UX Design, Design Thinking) •  (Responsive Web Design) • Data Visualization
 - **Digital Strategy:**  
   Digital Marketing Strategies • SEO
 
