@@ -2,8 +2,8 @@
 
 # Hi there, I'm Nicole 👋
 
-### 👩‍💻 Aspiring Front-End Developer | Student @ [Uncommon.org](https://uncommon.org/)
-> Passionate about tech education, creative solutions, and empowering others through code.
+### 👩‍💻 Front-End Developer | Student @ [Uncommon.org](https://uncommon.org/)
+> Passionate about tech education, creative solutions, and making a change through code.
 
 ---
 
