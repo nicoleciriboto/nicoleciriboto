@@ -10,7 +10,7 @@
 ## 💡 About Me
 
 - 🎓 **Currently learning:** Software Development @ Uncommon.org
-- 🖌️ **Aspiring Front-End Developer** with a knack for clean, minimalist interfaces in Figma, ReactJS, HTML, CSS, JavaScript
+- 🖌️ **Front-End Developer** with a knack for clean, minimalist interfaces in Figma, ReactJS, HTML, CSS, JavaScript, TypeScript
 - 📊 **Background in Data Analytics** — skilled in data visualization & digital strategy
 - 🧠 **Always eager to learn** and explore new tech
 - 🎵 Music lover, thriller & suspense aficionado, multi-lingual.
