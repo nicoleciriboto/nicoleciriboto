@@ -2,15 +2,15 @@
 
 # Hi there, I'm Nicole 👋
 
-### 👩‍💻 Front-End Developer | Student @ [Uncommon.org](https://uncommon.org/)
+### 👩‍💻 Front-End Developer 
 > Passionate about tech education, creative solutions, and making a change through code.
 
 ---
 
 ## 💡 About Me
 
-- 🎓 **Currently learning:** Software Development @ Uncommon.org
-- 🖌️ **Front-End Developer** with a knack for clean, minimalist interfaces in Figma, ReactJS, HTML, CSS, JavaScript, TypeScript
+- 🎓 **Graduate:** Software Development @ Uncommon.org
+- 🖌️ **Front-End Developer** with a knack for clean, minimalist interfaces in Figma, ReactJS, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 - 📊 **Background in Data Analytics** — skilled in data visualization & digital strategy
 - 🧠 **Always eager to learn** and explore new tech
 - 🎵 Music lover, thriller & suspense aficionado, multi-lingual.
