@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Tools
 
 - **Tools & Technologies:**  
-  `HTML` • `CSS` • `JavaScript` • `Reactjs` • `Next.js` (learning) • `Python` (basics + real-world projects) • `TailwindCSS` • `API Integration` • `MySQL`
+  `HTML` • `CSS` • `JavaScript` • `Reactjs` • `Next.js` • `TypeScript` • `Python` (basics + real-world projects) • `TailwindCSS` • `API Integration` • `MySQL`
 - **Design & Visualization:**  
   `Figma` (UI/UX Design, Design Thinking) •  (Responsive Web Design) • Data Visualization
 - **Digital Strategy:**  
